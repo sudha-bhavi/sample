@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{6BBEE60A-D38B-4957-B59E-0FEF6C03045D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person.json">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="15" Column="23" />
+      <File FileName="Models/PersonModel.cs" Line="14" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="13" Column="5" />
+      <File FileName="Views/Home/Edit.cshtml" Line="17" Column="22" />
+      <File FileName="Views/Home/Create.cshtml" Line="20" Column="46" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="7" Column="39" />
+      <File FileName="wwwroot/Person.json" Line="10" Column="21" />
+      <File FileName="Person.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="netcore" expanded="True">
+            <Node name="netcore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="Person.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.netcore PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/softtrends/.dotnet/store/|arch|/|tfm|",
+      "/Users/softtrends/.nuget/packages"
+    ]
+  }
+}
