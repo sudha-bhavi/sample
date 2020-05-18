@@ -41,7 +41,7 @@ namespace netcore.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       
         public ActionResult Edit(PersonModel personModel)
         {
             List<PersonModel> people = new List<PersonModel>();
@@ -67,7 +67,7 @@ namespace netcore.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       
         public ActionResult Create(PersonModel personModel)
         {
             List<PersonModel> people = new List<PersonModel>();

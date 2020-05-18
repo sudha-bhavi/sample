@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{6BBEE60A-D38B-4957-B59E-0FEF6C03045D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
     <Files>
       <File FileName="Program.cs" Line="16" Column="1" />
       <File FileName="Views/Home/Privacy.cshtml" />
-      <File FileName="Controllers/HomeController.cs" Line="25" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="70" Column="8" />
       <File FileName="Models/PersonModel.cs" />
       <File FileName="Views/Home/Index.cshtml" />
       <File FileName="Views/Home/Edit.cshtml" />
@@ -11,6 +11,7 @@
       <File FileName="Views/Shared/_Layout.cshtml" />
       <File FileName="wwwroot/Person.json" />
       <File FileName="Person.json" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,15 +22,14 @@
                 <Node name="FrameworkReferences" expanded="True" />
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
