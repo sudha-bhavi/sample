@@ -14,6 +14,7 @@ namespace netcore.Controllers
 {
     public class HomeController : Controller
     {
+        [HttpGet]
         public ActionResult Index()
         {
             List<PersonModel> people = new List<PersonModel>();
@@ -23,6 +24,7 @@ namespace netcore.Controllers
             return View(people);
         }
 
+        [HttpGet]
         public ActionResult Create()
         {
             return View();
